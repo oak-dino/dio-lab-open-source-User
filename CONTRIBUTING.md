@@ -49,6 +49,7 @@
 ##### Exemplo commit
 
 `feat: adicionado novo arquivo`
+`fix: corrigido um bug`
 
 
 ## Referências
